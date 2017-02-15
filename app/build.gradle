@@ -26,6 +26,6 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:25.1.0'
     testCompile 'junit:junit:4.12'
-    //    compile 'com.github.dccjll.library:simplepermissionslibrary:1.0.0'
-    compile project(':simplepermissionslibrary')
+    compile 'com.github.dccjll.library:simplepermissionslibrary:1.0.0'
+//    compile project(':simplepermissionslibrary')
 }
